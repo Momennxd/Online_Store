@@ -1,0 +1,16 @@
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.AssemblyReference.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\MaterialSkin.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_DataAccessLayer\obj\Debug\OnlineStore_DataAccessLayer.pdb

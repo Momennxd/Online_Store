@@ -1,0 +1,91 @@
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.exe.config
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.exe
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_BusinessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_BusinessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.AssemblyReference.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Properties.Resources.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.GenerateResource.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.CopyComplete
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.exe
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.frmMainScreen.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\MaterialSkin.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductThumbNail.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Products_List.frmProductsList.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Categories.frmCategories.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlCategory.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Products_List.frmProductDetails.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductDetails.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductReview.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddProductReview.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductsFilter.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlCartProduct.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Cart.frmUserCart.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Login.frmLoginScreen.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Login.frmSignUpScreen.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlUserProfileHeaderInfo.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Profile.frmUserProfile.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlManageProducts.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddPost.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlPost.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddNewComment.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlPostComment.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Posts.frmPostDetails.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Manage_Products.frmAddUpdateProduct.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Main_Screen.frmHomeScreen.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlMainScreenHeader.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlTopProducts.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductAd.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Top.frmTop.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Manage_Products.frmMarketProduct.resources
+F:\Projects\My Projects With C#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.frmBuyProductScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.exe.config
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.exe
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_PresentationLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_BusinessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_BusinessLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Cart.frmUserCart.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Categories.frmCategories.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.frmBuyProductScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Login.frmLoginScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Login.frmSignUpScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Main_Screen.frmHomeScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.frmMainScreen.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Manage_Products.frmAddUpdateProduct.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Manage_Products.frmMarketProduct.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Posts.frmPostDetails.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Products_List.frmProductDetails.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Products_List.frmProductsList.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Properties.Resources.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.Top.frmTop.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductAd.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddNewComment.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddPost.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlMainScreenHeader.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlManageProducts.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlAddProductReview.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlCartProduct.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlCategory.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlPost.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlPostComment.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductDetails.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductReview.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductsFilter.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlProductThumbNail.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlTopProducts.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Controls.ctrlUserProfileHeaderInfo.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.User_Profile.frmUserProfile.resources
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.GenerateResource.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.exe
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_PresentationLayer\obj\Debug\OnlineStore_PresentationLayer.pdb

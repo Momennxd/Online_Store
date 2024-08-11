@@ -1,0 +1,20 @@
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_BusinessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_BusinessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.AssemblyReference.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.CopyComplete
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.dll
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.pdb
+F:\Projects\My Projects With C#\Online Store\OnlineStore_BusinessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_BusinessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_BusinessLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\bin\Debug\OnlineStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.dll
+D:\Projects\My_Projects_c#\Online Store\OnlineStore_BusinessLayer\obj\Debug\OnlineStore_BusinessLayer.pdb

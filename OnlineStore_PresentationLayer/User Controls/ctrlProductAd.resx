@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtAdDescription.Text" xml:space="preserve">
+    <value>Introducing the epitome of style and luxury: the Prada T-shirt. Immerse yourself in the world of high fashion with this exquisite piece that seamlessly blends sophistication, comfort, and unmatched craftsmanship.
+Crafted from the finest materials, the Prada T-shirt is a testament to the brand's legacy of elegance and innovation. The attention to detail is evident in every stitch, creating a garment that exudes quality and timeless appeal. Slip into this iconic shirt and experience the unparalleled comfort that only Prada can provide.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnAddToCart.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAL4AAAA0CAYAAAA0X4IjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKlSURBVHhe7Z0vcDIxEEeRSCQSiUQikUgkEolE4pBIJBKJ
+        RCKRSCQSiUQi8/FLbzPX8mdw3132vZmdtrn01Mt2L/Q2jQDgEMQHlyA+uATxwSWIDy5BfHDJ1+Kfz+dw
+        OBzCZrMJi8WCICoV6/U6+nk6nQpjP/NR/NvtFm/a7XZDo9EgiFpEu90O0+k0Jut3vBV/v9/HG9jNWq1W
+        GAwGYTweP602gvjfMZlMop+dTic522w2Y4XyiifxleV1E/vlfr8fdrtdcRWg+qjcGQ6HyWF9f71ei6s/
+        PIlv0mu1LJfLYhSgfijbq1KxBH6/34srf8RXeWPSf/uQAFBllOmtZFdJZCTxVeLYBDI95EQ5oR+PxziW
+        xJ/P5+lPAkBuaJen7HcS356GtRcKkBuq75Xx5bjKnyi+6nkNqNQByBVtxcvz7Xb7I762KzUwGo3iBIAc
+        0cOtPNczbBR/tVrFAdVBALmif2uQ53EBaMBWQnm7ByA3yp4jPrgB8cEliA8uQXxwCeKDSxAfXIL44BLE
+        B5cgPrgE8cEliA8uQXxwCeKDSxAfXIL44BLEB5c8iR9fxXoMzGazOAEgR+xNwyR+fPn2MaAuagC5Ygk+
+        ia+WIhro9XpxAkCOWG8dtRaM4pd7jlwulzgJIDesd1Rsp1OMpZ4jdFqAHIlZ/uG35BdJfPUU1AUF3dQg
+        J1TFWNdktRgRSXxh2z3qqKYmsgA5oAMj5LX65Bu/xFetrwdcTdLxP9ZZFqCOqEemHRChZF4+HOKX+ELn
+        BpXPvKJlONQRbdFbeaOvahVe5kl88fc4IK0W/axSiFMPiSqGvFSS1oew5cT96hgg8VJ8Q6ukfJgWQdQl
+        lOX1Se07PopvaN9Tq+nVSiOIqsU3z6ZfiQ+QG4gPLkF8cAnig0sQHxwSwj+NErs3lX3bQwAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="btnShopNow.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMAAAAA0CAYAAADc3zcIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIvSURBVHhe7d2xjgFRGMVxBQkhiNAoJHqFUiVRSXQSryGR
+        eACFt9AolUql0iMolUql8tucmSFr3d163e9/kl/lss13mJlk780ZIY5DAYjrUADiOhSAuA4FIK5DAYjr
+        /FmA+/1uu93OJpOJ9ft9azablsvlgH9Nc6p5HY1Gtt1u7Xa7ZRP9nl8LcDgcrNFoWLVaDf4R4BNUKhWr
+        1+u22WyyyX7NWwHUlul0mrwp9IHAJ6rVajYYDOx6vWaTnualABr+TqdjhUIh+CHAp9N8Xy6XbOJ/FEDf
+        /Aw/Yqf7g0eeBdA1P5c98KBcLttqtUrmPimAnvbohje0GIiR5v18PqcF0KMi3S2HFgIxyufztlgs0gLo
+        eWloERCzbrebFqDdbgcXADHTr0BSgFKpFFwARE8FCL4AeEAB4BoFgGsUAK5RALhGAeAaBYBrFACuUQC4
+        RgHgGgWAaxQArlEAuEYB4BoFgGsUAK5RALhGAeAaBYBrKkDyz8GhF4HYqQBsew63VADtmht8EYhYsh2Q
+        CrBer61YLAYXAbGazWZpAbRdNBvjwhOdF7Df79MCKMvlkv1B4YKOABiPx8ncPwugHaJ7vV7wDUBMWq3W
+        89ywZwEUbRfNEyHETNuiH4/HbOJ/FEA5nU7JMTLcFCMmuuzRN//34VfeCqDocmg+n3NjjCjopNPhcBg8
+        LjVYgEfUFj0q4qhUfCLteq4zrnXW9W/5swCExB4KQFyHAhDXoQDEdSgAcRyzLz2AL7c8jcTFAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
