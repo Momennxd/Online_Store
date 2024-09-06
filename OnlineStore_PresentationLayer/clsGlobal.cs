@@ -28,12 +28,12 @@ namespace DVLD_PresentationLayer
 
         public static clsSeller CurrentSeller = null;
 
-        public static string UserInfoFilePath = @"F:\Projects\My Projects With C#\Online Store\LastUserLoginInfo.txt";
+        public static string UserInfoFilePath = @"LastUserLoginInfo.txt";
 
-        public static string ProductsImagesFilePath = @"F:\Projects\My Projects With C#\Online Store\Products Images\";
+        public static string ProductsImagesFilePath = @"Images\Products_Images";
 
         public static string AdsImagesFilePath 
-            = @"F:\Projects\My Projects With C#\Online Store\Ads Images\";
+            = @"Images\Ads_Images";
 
 
         public static string UserInfoRegPath = @"HKEY_CURRENT_USER\SOFTWARE\OnlineStore_CurrentUser";
